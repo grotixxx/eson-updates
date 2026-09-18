@@ -1,0 +1,12 @@
+{
+  "version": "2.2.0",
+  "release_date": "2026-09-18",
+  "title": "ЄСОН v2.2.0 (by Yehor Karapysh)",
+  "description": "Оновлено авторський напис та додано демонстрацію оновлень.",
+  "changelog": [
+    "Оновлено авторський бейдж на: by Yehor Karapysh",
+    "Покращено читабельність кнопки перевірки оновлень",
+    "Додано можливість локального тестування оновлень"
+  ],
+  "download_url": "https://github.com/eson-automation/releases/download/v2.2.0/EsonAutomation_Setup_v2.2.0.exe"
+}
